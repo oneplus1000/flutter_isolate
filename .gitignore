@@ -13,3 +13,5 @@ example/ios/Podfile
 android/.classpath
 android/.project
 android/.settings/
+.flutter-plugins
+.flutter-plugins-dependencies
